@@ -1,5 +1,26 @@
 # React Masterclass
 
-Most learners get stuck because tutorials and code examples teach React in isolation. They show syntax, small demos, and happy-path logic, but they usually do not teach how real frontend applications are structured, scaled, and maintained in production.
+Many people learn React by watching tutorials and copying code examples.
 
-This workspace is built around a more practical approach. Instead of only watching tutorials, you learn React by building Vite-based JavaScript projects in increasing order of difficulty, using industry-standard architecture, scalable folder structure, reusable UI patterns, clean separation of concerns, and real-world implementation flow that stays compatible with future Node.js integration.
+The problem is simple:
+
+- tutorials teach syntax
+- real projects need structure
+- examples are small
+- real apps grow fast
+
+This workspace is made for practical learning.
+
+Here you learn React by building real projects step by step:
+
+- Vite + React + JavaScript
+- increasing difficulty from `level-0` to `level-20`
+- scalable folder structure
+- industry-style architecture
+- reusable components
+- real-world implementation
+- future-ready for Node.js integration
+
+Goal:
+
+Learn React in a way that is easier to understand, easier to practice, and closer to how real frontend products are built.
